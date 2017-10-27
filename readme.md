@@ -74,7 +74,7 @@ Your results must look like this:
 | LAX |
 
 
-4) Provide a distinct list of airlines that conduct flights departing from ATL.  
+4) Provide a distinct list of airlines that conducts flights departing from ATL.  
 
 - Points: 5
 
