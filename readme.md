@@ -172,7 +172,7 @@ Your results must look like this:
 | Peter     | Buck     |  2800 |
 | Joe       | Strummer |  1477 |
 
-11) Provide a list of upcoming scheduled American airline flights ordered by route and arrival date and time.  
+11) Provide a list of American airline flights ordered by route and arrival date and time.  Your results must look like this:
 
 > Hint:  String and Date Functions
 
