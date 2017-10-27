@@ -119,7 +119,7 @@ Your results must look like this:
 
 
 
-7)  List the number of reservations by flight number.  
+7)  List the number of reservations by flight number.  Order by reservations in descending order. 
 
 - Points: 5
 
@@ -135,7 +135,7 @@ Your results must look like this:
 | 1021   |            1 |
 
 
-8) List the average ticket cost for coach by airline and route.  
+8) List the average ticket cost for coach by airline and route.  Order by AverageCost in descending order.
 
 - Points: 10
 
@@ -159,7 +159,7 @@ Your results must look like this:
 |--|--|--|
 | SFO           | CLT           |  2290 |
 
-10)  List the top 5 passengers that have flown the most miles.
+10)  List the top 5 passengers that have flown the most miles. Order by miles.
 
 - Points: 10
 
@@ -193,7 +193,7 @@ Your results must look like this:
 | American | LAX --> STL | 2017-10-03  | 14:00:00    |
 
 
-12) Provide a report that counts the number of reservations, totals the reservation costs (as Revenue) for each Airline and flight.  Order the report by total revenue in descending order.  
+12) Provide a report that counts the number of reservations and totals the reservation costs (as Revenue) by Airline, flight, and route.  Order the report by total revenue in descending order.  
 
 - Points: 10
 
@@ -209,7 +209,7 @@ Your results must look like this:
 | United   | 3456   | CLT --> CHS |                 1 |   599.00 |
 
 
-13) List the average cost per reservation by route. Round results down the dollar.
+13) List the average cost per reservation by route. Round results down to the dollar.
 
 - Points: 10
 
