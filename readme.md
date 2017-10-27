@@ -116,8 +116,6 @@ Your results must look like this:
 | American | 1021   | B13  | 14:15:00 | scheduled |
 
 
-
-
 7)  List the number of reservations by flight number.  Order by reservations in descending order.
 
 - Points: 5
@@ -128,10 +126,10 @@ Your results must look like this:
 |----|----|
 | 654    |           15 |
 | 3333   |            7 |
+| 1021   |            5 |
 | 1033   |            5 |
 | 3242   |            3 |
 | 3456   |            1 |
-| 1021   |            1 |
 
 
 8) List the average ticket cost for coach by airline and route.  Order by AverageCost in descending order.
