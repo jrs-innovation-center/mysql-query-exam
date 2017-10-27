@@ -3,7 +3,6 @@
 - Fork and clone this repo.
 - Run the **db.sql** sql script to create the database, tables, and data.
 - Review the contents and schema of each table.  What is the intent of each table? Where are the foreign key columns?
-- Play around with the data using SQL.
 - Create a sql script file named **answers.sql** containing the `SELECT` SQL statement answer for each challenge.  Use code commenting to signify the answer for each challenge.  Example:
 
   ```
@@ -18,7 +17,7 @@
 
 ## GRADING
 
-Each challenge is worth either 5 or 10 points.  A total of 100 points is available.  The test will be graded on the following scale:
+Each challenge is worth 5 or 10 points.  A total of 100 points is available.  The test will be graded on the following scale:
 
 | GRADING SCALE |  SCORE |
 |--|--|
@@ -119,7 +118,7 @@ Your results must look like this:
 
 
 
-7)  List the number of reservations by flight number.  Order by reservations in descending order. 
+7)  List the number of reservations by flight number.  Order by reservations in descending order.
 
 - Points: 5
 
