@@ -100,7 +100,7 @@ Your results must look like this:
 | Delta | 1033         | DEN           | SFO           |
 | Delta | 3242         | ATL           | LAX           |
 
-6. Provide a list of airlines, flight numbers, gates, status, and arrival times arriving into Charlotte (CLT) on 10-30-2017. Order your results by the arrival time.
+6. Provide a list of airlines, flight numbers, gates, status, and arrival _times_ arriving into Charlotte (CLT) on 10-30-2017. Order your results by the arrival time.
 
 > Hint: https://dev.mysql.com/doc/refman/5.7/en/date-and-time-functions.html
 
