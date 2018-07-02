@@ -50,7 +50,7 @@ Your results must look like this:
 | LAX      |
 | SFO      |
 
-2. Provide a list of delayed flights departing from San Francisco (SFO).
+2. Provide a list of flights with a delayed status that depart from San Francisco (SFO).
 
 * Points: 5
 
