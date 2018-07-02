@@ -61,7 +61,7 @@ Your results must look like this:
 | Delta | 999          | 2017-10-25 12:00:00     | LAX           | delayed |
 | Delta | 234          | 2017-10-25 12:30:00     | CLT           | delayed |
 
-3. Provide a distinct list of cities that American airlines departs from.
+3. Provide a distinct list of cities that American Airlines departs from.
 
 > Remember: TO ANSWER ANY GIVEN CHALLENGE CORRECTLY YOU MUST MATCH THE OUTPUT _EXACTLY_ INCLUDING COLUMN NAMES, ROW CONTENT AND ORDER.
 
